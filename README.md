@@ -2,7 +2,7 @@
 
 Gestão financeira pessoal — saldo, contas fixas, metas e dívidas — direto no navegador, sem servidor, sem conta, sem rastreamento. Feito para uso no celular.
 
-🔗 **App ao vivo:** _(preenchido após o deploy)_
+🔗 **App ao vivo:** https://thooncoder.github.io/t-finance/
 
 ![T-Finance](IMAGENS/CAPA.png)
 
